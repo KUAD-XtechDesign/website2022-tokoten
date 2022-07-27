@@ -79,7 +79,7 @@ header a {
 }
 
 header .inner {
-  background-color: rgb(255, 255, 255);
+  background-color: #f9e5c0;
   position: relative;
   display: flex;
   justify-content: space-between;
@@ -120,7 +120,7 @@ header .inner {
   position: absolute;
   width: 100%;
   height: 10px;
-  background-color: #ccc;
+  background-color: rgb(5, 0, 0);
 }
 
 #menu_btn{
@@ -130,7 +130,7 @@ header .inner {
   border-radius: 20px;
   right: 10px;
   top: 7px;
-  background-color: #ccc;
+  background-color: rgb(228, 180, 180);
   z-index: 30;
   cursor: pointer;
   display: none;
