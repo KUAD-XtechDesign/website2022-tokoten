@@ -12,15 +12,15 @@ html,
 body {
   height: 100%;
   font-feature-settings: "palt";
-  background-color: #fff;
+  background-color: rgb(103, 182, 78);
   position: relative;
 }
 
 body {
   font-size: 16px;
   line-height: 1.6;
-  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
-  color: #333333;
+  font-family: "游ゴシック体　", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #ffffff;
   letter-spacing: 0.05em;
 }
 
@@ -79,7 +79,7 @@ header a {
 }
 
 header .inner {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   position: relative;
   display: flex;
   justify-content: space-between;
@@ -166,7 +166,7 @@ footer
 ======================================================*/
 footer {
   background-color: #333;
-  color: #fff;
+  color: rgb(246, 245, 248);
   text-align: center;
   padding: 20px;
   font-size: 10px;
@@ -199,7 +199,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   height: 500px;
   color: #fff;
   font-weight: bold;
-  background-image: url(../images/top.jpg);/* 背景画像 */
+  background-image: url(../images/DD5DD765-676A-4180-B3AF-2412632A5892.jpeg);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
@@ -309,7 +309,7 @@ reportページ
 
 .report_eye_catch {
   height: 300px;
-  background-image: url(../images/report.jpg);
+  background-image: url(../images/ACDD6CB9-46BA-4A43-8A52-9D776EB4A577.jpeg);
   background-size: cover;
   background-position: center center;
   display: flex;
